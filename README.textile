@@ -1,6 +1,6 @@
 h2. Скачать
 
-Последняя версия шпаргалки в PDF доступна "по ссылке":https://github.com/downloads/drakulavich/russian-bash-cheatsheet/rbc.pdf.
+Последняя версия шпаргалки в PDF доступна "по ссылке":https://github.com/drakulavich/russian-bash-cheatsheet/releases/latest/download/rbc.pdf.
 
 h2. Благодарности
 
